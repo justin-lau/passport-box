@@ -6,12 +6,16 @@
 		"name": "Justin Lau",
 		"email": "justin.lau.t.c@gmail.com"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/justin-lau/passport-box.git"
+	},
 	"main": "./lib/passport-box",
 	"dependencies": {
 		"pkginfo": "0.2.x",
 		"passport": "0.1.x"
 	},
 	"engines": {
-		"node": ">= 0.4.0"
+		"node": "0.4.x"
 	}
 }
