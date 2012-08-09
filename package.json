@@ -1,0 +1,17 @@
+{
+	"name": "passport-box",
+	"version": "0.0.1",
+	"description": "Box authentication strategy for Passport.",
+	"author": {
+		"name": "Justin Lau",
+		"email": "justin.lau.t.c@gmail.com"
+	},
+	"main": "./lib/passport-box",
+	"dependencies": {
+		"pkginfo": "0.2.x",
+		"passport": "0.1.x"
+	},
+	"engines": {
+		"node": ">= 0.4.0"
+	}
+}
